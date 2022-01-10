@@ -1,3 +1,4 @@
+<meta charset="UTF-8" />
 <?php
 //get data from form  
 $name = $_POST['name'];
